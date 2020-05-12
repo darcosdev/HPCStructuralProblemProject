@@ -11,5 +11,5 @@ Development of a program during my third year of studies at Imperial College wit
 <a name="usage"></a>
 ## 2. Usage guide
 
-In order to execute the program, the problem to solve must be defined in the make file, where all the parameters are configured.
+In order to execute the program, the problem to solve must be defined in the make file, where all the parameters are configured. Then, execute make file inside the directory where the main cose is.
 
