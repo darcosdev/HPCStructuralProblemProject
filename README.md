@@ -1,4 +1,4 @@
-# High Perfomance Computing - Structural Problem Project 2017
+# High Perfomance Computing - Structural Problem Project - 2017
 
 1. [ Description ](#desc)
 2. [ Usage guide ](#usage)
